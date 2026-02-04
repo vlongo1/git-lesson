@@ -1,3 +1,4 @@
 - Do day 1 of git training
 - writing chapter 2
 - get lunch
+- go home
